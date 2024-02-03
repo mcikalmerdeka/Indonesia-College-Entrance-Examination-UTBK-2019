@@ -1,0 +1,1546 @@
+university_name,major_name,capacity
+Universitas Syiah Kuala,Pendidikan Dokter Hewan,88
+Universitas Syiah Kuala,Teknik Sipil,64
+Universitas Syiah Kuala,Teknik Mesin,48
+Universitas Syiah Kuala,Teknik Kimia,48
+Universitas Syiah Kuala,Arsitektur,48
+Universitas Syiah Kuala,Teknik Elektro,48
+Universitas Syiah Kuala,Agroteknologi,48
+Universitas Syiah Kuala,Agribisnis,48
+Universitas Syiah Kuala,Peternakan,48
+Universitas Syiah Kuala,Teknologi Hasil Pertanian,48
+Universitas Syiah Kuala,Teknik Pertanian,40
+Universitas Syiah Kuala,Pendidikan Biologi,48
+Universitas Syiah Kuala,Pendidikan Matematika,48
+Universitas Syiah Kuala,Pendidikan Fisika,36
+Universitas Syiah Kuala,Pendidikan Kimia,40
+Universitas Syiah Kuala,Pendidikan Dokter,60
+Universitas Syiah Kuala,Ilmu Keperawatan,60
+Universitas Syiah Kuala,Pendidikan Dokter Gigi,24
+Universitas Syiah Kuala,Matematika,36
+Universitas Syiah Kuala,Fisika,36
+Universitas Syiah Kuala,Kimia,36
+Universitas Syiah Kuala,Biologi,36
+Universitas Syiah Kuala,Ilmu Kelautan,72
+Universitas Syiah Kuala,Budidaya Perairan,72
+Universitas Syiah Kuala,Teknik Industri,48
+Universitas Syiah Kuala,Informatika,36
+Universitas Syiah Kuala,Farmasi,24
+Universitas Syiah Kuala,Teknik Geofisika,32
+Universitas Syiah Kuala,Teknik Pertambangan,24
+Universitas Syiah Kuala,Statistika,24
+Universitas Syiah Kuala,Pemanfaatan Sumberdaya Perikanan,72
+Universitas Syiah Kuala,Ilmu Tanah,32
+Universitas Syiah Kuala,Teknik Geologi,24
+Universitas Syiah Kuala,Agroteknologi (Psdku Gayo Lues),20
+Universitas Syiah Kuala,Pendidikan Biologi  (Pdsku Gayo Lues),16
+Universitas Syiah Kuala,Kehutanan (Psdku Gayo Lues),16
+Universitas Syiah Kuala,Proteksi Tanaman,32
+Universitas Syiah Kuala,Perencanaan Wilayah Dan Kota,24
+Universitas Syiah Kuala,Kehutanan,32
+Universitas Syiah Kuala,Teknik Komputer,40
+Universitas Malikussaleh,Teknik Sipil,100
+Universitas Malikussaleh,Teknik Mesin,100
+Universitas Malikussaleh,Teknik Kimia,100
+Universitas Malikussaleh,Teknik Elektro,80
+Universitas Malikussaleh,Teknik Industri,80
+Universitas Malikussaleh,Teknik Informatika,80
+Universitas Malikussaleh,Teknik Arsitektur,64
+Universitas Malikussaleh,Agroekoteknologi,80
+Universitas Malikussaleh,Agribisnis,60
+Universitas Malikussaleh,Budidaya Perairan,48
+Universitas Malikussaleh,Pendidikan Dokter,32
+Universitas Malikussaleh,Pendidikan Matematika,32
+Universitas Malikussaleh,Pendidikan Teknik Mesin,32
+Universitas Malikussaleh,Sistem Informasi,56
+Universitas Malikussaleh,Ilmu Kelautan,36
+Universitas Malikussaleh,Teknik Material,32
+Universitas Teuku Umar,Teknik Sipil,60
+Universitas Teuku Umar,Teknik Mesin,40
+Universitas Teuku Umar,Teknik Industri,40
+Universitas Teuku Umar,Agribisnis,60
+Universitas Teuku Umar,Agroteknologi,60
+Universitas Teuku Umar,Perikanan,60
+Universitas Teuku Umar,Kesehatan Masyarakat,75
+Universitas Teuku Umar,Akuakultur,30
+Universitas Teuku Umar,Teknologi Hasil Pertanian,40
+Universitas Samudra,Agroteknologi,32
+Universitas Samudra,Agribisnis,32
+Universitas Samudra,Budidaya Perairan,32
+Universitas Samudra,Pendidikan Matematika,16
+Universitas Samudra,Pendidikan Fisika,16
+Universitas Samudra,Pendidikan Kimia,16
+Universitas Samudra,Pendidikan Biologi,32
+Universitas Samudra,Teknik Mesin,32
+Universitas Samudra,Teknik Sipil,32
+Universitas Samudra,Teknik Industri,16
+Universitas Samudra,Teknik Informatika,32
+Universitas Samudra,Fisika,16
+Universitas Samudra,Kimia ,16
+Universitas Samudra,Biologi,16
+Universitas Islam Negeri Ar-Raniry,Pendidikan Teknik Elektro,28
+Universitas Islam Negeri Ar-Raniry,Pendidikan Teknologi Informatika,28
+Universitas Islam Negeri Ar-Raniry,Arsitektur,48
+Universitas Islam Negeri Ar-Raniry,Teknik Lingkungan,48
+Universitas Islam Negeri Ar-Raniry,Biologi,48
+Universitas Islam Negeri Ar-Raniry,Kimia,48
+Universitas Islam Negeri Ar-Raniry,Teknologi Informasi,48
+Universitas Sumatera Utara,Pendidikan Dokter,82
+Universitas Sumatera Utara,Teknik Sipil,51
+Universitas Sumatera Utara,Teknik Mesin,69
+Universitas Sumatera Utara,Teknik Elektro,69
+Universitas Sumatera Utara,Teknik Industri,69
+Universitas Sumatera Utara,Teknik Kimia,69
+Universitas Sumatera Utara,Pendidikan Dokter Gigi,82
+Universitas Sumatera Utara,Matematika,44
+Universitas Sumatera Utara,Kimia,51
+Universitas Sumatera Utara,Farmasi,78
+Universitas Sumatera Utara,Fisika,44
+Universitas Sumatera Utara,Ilmu Kesehatan Masyarakat,118
+Universitas Sumatera Utara,Agroekoteknologi,108
+Universitas Sumatera Utara,Keteknikan Pertanian,36
+Universitas Sumatera Utara,Biologi,44
+Universitas Sumatera Utara,Agribisnis,66
+Universitas Sumatera Utara,Ilmu Dan Teknologi Pangan,36
+Universitas Sumatera Utara,Peternakan,54
+Universitas Sumatera Utara,Arsitektur,69
+Universitas Sumatera Utara,Ilmu Keperawatan,72
+Universitas Sumatera Utara,Kehutanan,82
+Universitas Sumatera Utara,Ilmu Komputer,54
+Universitas Sumatera Utara,Teknologi Informasi,54
+Universitas Sumatera Utara,Manajemen Sumber Daya Perairan,36
+Universitas Sumatera Utara,Teknik Lingkungan,18
+Universitas Negeri Medan,Pendidikan Matematika,144
+Universitas Negeri Medan,Pendidikan Biologi,70
+Universitas Negeri Medan,Pendidikan Fisika,84
+Universitas Negeri Medan,Pendidikan Kimia,84
+Universitas Negeri Medan,Pendidikan Teknik Bangunan,40
+Universitas Negeri Medan,Pendidikan Teknik Mesin,41
+Universitas Negeri Medan,Pendidikan Teknik Elektro,41
+Universitas Negeri Medan,Kimia,36
+Universitas Negeri Medan,Biologi,54
+Universitas Negeri Medan,Ilmu Keolahragaan,45
+Universitas Negeri Medan,Matematika,41
+Universitas Negeri Medan,Fisika,18
+Universitas Negeri Medan,Pendidikan Teknik Otomotif,41
+Universitas Negeri Medan,Gizi,27
+Universitas Negeri Medan,Teknik Elektro,25
+Universitas Negeri Medan,Teknik Sipil,36
+Universitas Negeri Medan,Pendidikan Teknologi Informatika Dan Komputer,41
+Universitas Negeri Medan,Ilmu Komputer,36
+Universitas Negeri Medan,Pendidikan Ipa,48
+Universitas Islam Negeri Sumatera Utara,Ilmu Komputer,84
+Universitas Islam Negeri Sumatera Utara,Sistem Informasi,84
+Universitas Islam Negeri Sumatera Utara,Matematika,56
+Universitas Islam Negeri Sumatera Utara,Biologi,56
+Universitas Islam Negeri Sumatera Utara,Fisika,42
+Universitas Islam Negeri Sumatera Utara,Ilmu Kesehatan Masyarakat,160
+Universitas Riau,Fisika,48
+Universitas Riau,Kimia,48
+Universitas Riau,Matematika,32
+Universitas Riau,Biologi,48
+Universitas Riau,Manajemen Sumberdaya Perairan,48
+Universitas Riau,Budidaya Perairan,48
+Universitas Riau,Ilmu Kelautan,48
+Universitas Riau,Teknologi Hasil Perikanan,48
+Universitas Riau,Pemanfaatan Sumberdaya Perikanan,32
+Universitas Riau,Sosial Ekonomi Perikanan,32
+Universitas Riau,Agroteknologi,80
+Universitas Riau,Sosial Ekonomi Pertanian (Agribisnis),64
+Universitas Riau,Teknologi Hasil Pertanian,32
+Universitas Riau,Kehutanan,32
+Universitas Riau,Teknik Sipil,48
+Universitas Riau,Teknik Kimia,48
+Universitas Riau,Teknik Mesin,48
+Universitas Riau,Teknik Elektro,32
+Universitas Riau,Pend. Dokter ,48
+Universitas Riau,Ilmu Keperawatan ,80
+Universitas Riau,Pend. Matematika,32
+Universitas Riau,Pend. Biologi,32
+Universitas Riau,Pend. Fisika,32
+Universitas Riau,Pend. Kimia,32
+Universitas Riau,Teknik Lingkungan,32
+Universitas Riau,Teknik Arsitek,32
+Universitas Riau,Sistem Informasi,48
+Universitas Riau,Teknik Informatika,32
+Universitas Riau,Teknologi Industri Pertanian,16
+Universitas Riau,Statistika,16
+Universitas Islam Negeri Sultan Syarif Kasim,Ilmu Peternakan,33
+Universitas Islam Negeri Sultan Syarif Kasim,Matematika,20
+Universitas Islam Negeri Sultan Syarif Kasim,Sistem Informasi,20
+Universitas Islam Negeri Sultan Syarif Kasim,Teknik Elektro,20
+Universitas Islam Negeri Sultan Syarif Kasim,Teknik Industri,20
+Universitas Islam Negeri Sultan Syarif Kasim,Teknik Informatika,20
+Universitas Islam Negeri Sultan Syarif Kasim,Pendidikan Matematika,45
+Universitas Islam Negeri Sultan Syarif Kasim,Pendidikan Kimia,30
+Universitas Islam Negeri Sultan Syarif Kasim,Ilmu Pertanian (Agroteknologi),33
+Universitas Islam Negeri Sultan Syarif Kasim,Gizi,20
+Universitas Maritim Raja Ali Haji,Teknik Elektro,28
+Universitas Maritim Raja Ali Haji,Teknik Informatika,28
+Universitas Maritim Raja Ali Haji,Ilmu Kelautan,48
+Universitas Maritim Raja Ali Haji,Manajemen Sumberdaya Perairan,48
+Universitas Maritim Raja Ali Haji,Pendidikan Matematika,36
+Universitas Maritim Raja Ali Haji,Pendidikan Biologi,36
+Universitas Maritim Raja Ali Haji,Budi Daya Perairan,32
+Universitas Maritim Raja Ali Haji,Sosial Ekonomi Perikanan,16
+Universitas Andalas,Agribisnis,56
+Universitas Andalas,Agroekoteknologi,70
+Universitas Andalas,Pendidikan Dokter,100
+Universitas Andalas,Ilmu Keperawatan,72
+Universitas Andalas,Ilmu Kesehatan Masyarakat,60
+Universitas Andalas,Pendidikan Dokter Gigi,32
+Universitas Andalas,Kimia,48
+Universitas Andalas,Biologi,48
+Universitas Andalas,Matematika,40
+Universitas Andalas,Fisika,48
+Universitas Andalas,Sistem Komputer,34
+Universitas Andalas,Peternakan,140
+Universitas Andalas,Teknik Mesin,60
+Universitas Andalas,Teknik Sipil,80
+Universitas Andalas,Teknik Industri,52
+Universitas Andalas,Teknik Lingkungan,40
+Universitas Andalas,Teknik Elektro,52
+Universitas Andalas,Farmasi,60
+Universitas Andalas,Teknik Pertanian,48
+Universitas Andalas,Teknologi Hasil Pertanian,48
+Universitas Andalas,Sistem Informasi,32
+Universitas Andalas,Psikologi,48
+Universitas Andalas,Ilmu Tanah,40
+Universitas Andalas,Peternakan ( Kampus Ii Payakumbuh),40
+Universitas Andalas,Kebidanan,20
+Universitas Andalas,Gizi,20
+Universitas Andalas,Proteksi Tanaman,40
+Universitas Andalas,Penyuluhan Pertanian,16
+Universitas Andalas,Teknologi Industri Pertanian,24
+Universitas Negeri Padang,Pendidikan Matematika,64
+Universitas Negeri Padang,Matematika (Nk),42
+Universitas Negeri Padang,Pendidikan Biologi,64
+Universitas Negeri Padang,Biologi (Nk),56
+Universitas Negeri Padang,Pendidikan Fisika,72
+Universitas Negeri Padang,Fisika (Nk),54
+Universitas Negeri Padang,Pendidikan Kimia,64
+Universitas Negeri Padang,Kimia (Nk),56
+Universitas Negeri Padang,Pendidikan Teknik Bangunan,26
+Universitas Negeri Padang,Pendidikan Teknik Elektro,39
+Universitas Negeri Padang,Pendidikan Teknik Elektronika,26
+Universitas Negeri Padang,Pendidikan Teknik Mesin,39
+Universitas Negeri Padang,Pendidikan Teknik Otomotif,39
+Universitas Negeri Padang,Pend. Teknik Informatika Dan Komputer,39
+Universitas Negeri Padang,Ilmu Keolahragaan (Nk),100
+Universitas Negeri Padang,Teknik Pertambangan (Nk),16
+Universitas Negeri Padang,Teknik Elektro Industri (Nk),39
+Universitas Negeri Padang,Pendidikan Ilmu Pengetahuan Alam,54
+Universitas Negeri Padang,Teknik Sipil,26
+Universitas Negeri Padang,Statistika (Nk),18
+Universitas Negeri Padang,Teknik Mesin (Nk),26
+Universitas Jambi,Pend. Kimia,54
+Universitas Jambi,Pend. Matematika,54
+Universitas Jambi,Pend. Fisika,54
+Universitas Jambi,Pend. Biologi,54
+Universitas Jambi,Agroekoteknologi,90
+Universitas Jambi,Agribisnis,108
+Universitas Jambi,Teknologi Hasil Pertanian,54
+Universitas Jambi,Pend. Olahraga & Kesehatan,68
+Universitas Jambi,Kehutanan,90
+Universitas Jambi,Peternakan,95
+Universitas Jambi,Kedokteran,68
+Universitas Jambi,Kimia,36
+Universitas Jambi,Ilmu Keperawatan,54
+Universitas Jambi,Farmasi,36
+Universitas Jambi,Pemanfaatan Sumberdaya Perikanan,36
+Universitas Jambi,Sistem Informasi,72
+Universitas Jambi,Teknik Pertambangan,36
+Universitas Jambi,Teknik Geologi,32
+Universitas Jambi,Biologi,32
+Universitas Jambi,Fisika,18
+Universitas Jambi,Matematika,32
+Universitas Jambi,Ilmu Kesehatan Masyarakat,135
+Universitas Jambi,Teknik Lingkungan,23
+Universitas Jambi,Teknik Elektro,23
+Universitas Jambi,Teknik Geofisika,18
+Universitas Jambi,Teknik Kimia,23
+Universitas Jambi,Teknik Sipil,23
+Universitas Jambi,Teknik Pertanian,36
+Universitas Jambi,Teknologi Industri Pertanian,36
+Universitas Bengkulu,Agroekoteknologi,65
+Universitas Bengkulu,Kehutanan,50
+Universitas Bengkulu,Peternakan,60
+Universitas Bengkulu,Agribisnis,50
+Universitas Bengkulu,Teknologi Industri Pertanian,65
+Universitas Bengkulu,Pendidikan Fisika,40
+Universitas Bengkulu,Pendidikan Biologi,40
+Universitas Bengkulu,Pendidikan Kimia,20
+Universitas Bengkulu,Pendidikan Matematika,40
+Universitas Bengkulu,Matematika,40
+Universitas Bengkulu,Biologi,40
+Universitas Bengkulu,Kimia,40
+Universitas Bengkulu,Teknik Informatika,50
+Universitas Bengkulu,Teknik Sipil,50
+Universitas Bengkulu,Teknik Mesin,50
+Universitas Bengkulu,Teknik Elektro,50
+Universitas Bengkulu,Ilmu Kelautan,45
+Universitas Bengkulu,Pendidikan Dokter,33
+Universitas Bengkulu,Ilmu Tanah,25
+Universitas Bengkulu,Statistika,20
+Universitas Bengkulu,Arsitektur,25
+Universitas Bengkulu,Sistem Informasi,25
+Universitas Bengkulu,Proteksi Tanaman,25
+Universitas Bengkulu,Farmasi,15
+Universitas Bengkulu,Geofisika,20
+Universitas Bengkulu,Pendidikan Ipa,40
+Universitas Sriwijaya,Teknik Sipil,70
+Universitas Sriwijaya,Teknik Pertambangan,60
+Universitas Sriwijaya,Teknik Kimia,70
+Universitas Sriwijaya,Teknik Mesin,70
+Universitas Sriwijaya,Teknik Elektro,70
+Universitas Sriwijaya,Pendidikan Dokter,125
+Universitas Sriwijaya,Pendidikan Dokter Gigi,40
+Universitas Sriwijaya,Matematika,60
+Universitas Sriwijaya,Fisika,60
+Universitas Sriwijaya,Kimia,60
+Universitas Sriwijaya,Biologi,60
+Universitas Sriwijaya,Agribisnis,100
+Universitas Sriwijaya,Teknologi Hasil Pertanian ,50
+Universitas Sriwijaya,Teknik Pertanian,50
+Universitas Sriwijaya,Pend. Matematika,40
+Universitas Sriwijaya,Pend Biologi,40
+Universitas Sriwijaya,Pend. Kimia,40
+Universitas Sriwijaya,Pend Fisika,40
+Universitas Sriwijaya,Ilmu Kesehatan Masyarakat,110
+Universitas Sriwijaya,Arsitektur,45
+Universitas Sriwijaya,Ilmu Kelautan,60
+Universitas Sriwijaya,Budidaya Perairan,50
+Universitas Sriwijaya,Teknologi Hasil Perikanan,50
+Universitas Sriwijaya,Ilmu Keperawatan,60
+Universitas Sriwijaya,Pend Teknik Mesin,47
+Universitas Sriwijaya,Sistem Komputer,83
+Universitas Sriwijaya,Teknik Informatika,83
+Universitas Sriwijaya,Sistem Informasi,83
+Universitas Sriwijaya,Agroekoteknologi,50
+Universitas Sriwijaya,Peternakan,50
+Universitas Sriwijaya,Farmasi,60
+Universitas Sriwijaya,Teknik Geologi,40
+Universitas Sriwijaya,Psikologi,40
+Universitas Sriwijaya,Ilmu Tanah,50
+Universitas Sriwijaya,Agronomi,50
+Universitas Sriwijaya,Proteksi Tanaman,50
+Universitas Sriwijaya,Gizi,50
+Universitas Sriwijaya,Kesehatan Lingkungan,50
+Universitas Islam Negeri Raden Fatah,Pendidikan Matematika,36
+Universitas Islam Negeri Raden Fatah,Pendidikan Biologi,48
+Universitas Islam Negeri Raden Fatah,Kimia,14
+Universitas Islam Negeri Raden Fatah,Biologi,14
+Universitas Islam Negeri Raden Fatah,Pendidikan Fisika,24
+Universitas Islam Negeri Raden Fatah,Pendidikan Kimia,24
+Universitas Bangka Belitung,Teknik Mesin,14
+Universitas Bangka Belitung,Teknik Elektro,32
+Universitas Bangka Belitung,Teknik Pertambangan,17
+Universitas Bangka Belitung,Teknik Sipil,35
+Universitas Bangka Belitung,Agroteknologi,35
+Universitas Bangka Belitung,Manajemen Sumberdaya Perairan,25
+Universitas Bangka Belitung,Biologi,16
+Universitas Bangka Belitung,Agribisnis,35
+Universitas Bangka Belitung,Ilmu Kelautan,14
+Universitas Bangka Belitung,Kimia,14
+Universitas Bangka Belitung,Fisika,14
+Universitas Bangka Belitung,Matematika,12
+Universitas Lampung,Agroteknologi,31
+Universitas Lampung,Agribisnis,54
+Universitas Lampung,Teknik Geofisika,44
+Universitas Lampung,Teknik Sipil,66
+Universitas Lampung,Kimia,63
+Universitas Lampung,Biologi,45
+Universitas Lampung,Teknologi Hasil Pertanian,45
+Universitas Lampung,Peternakan,31
+Universitas Lampung,Kehutanan,67
+Universitas Lampung,Teknik Pertanian,45
+Universitas Lampung,Matematika,63
+Universitas Lampung,Fisika,63
+Universitas Lampung,Teknik Mesin,44
+Universitas Lampung,Teknik Elektro,66
+Universitas Lampung,Pend. Matematika,36
+Universitas Lampung,Pend. Fisika,36
+Universitas Lampung,Pend. Kimia,36
+Universitas Lampung,Pend. Biologi,36
+Universitas Lampung,Teknik Kimia,66
+Universitas Lampung,Pend. Kedokteran,65
+Universitas Lampung,Budidaya Perairan,31
+Universitas Lampung,Ilmu Komputer,45
+Universitas Lampung,Arsitektur,28
+Universitas Lampung,Teknik Geodesi,28
+Universitas Lampung,Teknik Informatika,44
+Universitas Lampung,Sumberdaya Akuatik,31
+Universitas Lampung,Ilmu Tanah,27
+Universitas Lampung,Agronomi,45
+Universitas Lampung,Proteksi Tanaman,27
+Universitas Lampung,Penyuluhan Pertanian,45
+Universitas Lampung,Ilmu Kelautan,27
+Universitas Lampung,Teknologi Industri Pertanian,27
+Universitas Lampung,Nutrisi Dan Teknologi Pangan Ternak,31
+Universitas Lampung,Pendidikan Vokasional Teknologi Informasi,14
+Universitas Lampung,Farmasi,32
+Universitas Lampung,Biologi Terapan,18
+Institut Teknologi Sumatera,Teknik Geomatika,73
+Institut Teknologi Sumatera,Teknik Elektro,88
+Institut Teknologi Sumatera,Perencanaan Wilayah Dan Kota,117
+Institut Teknologi Sumatera,Teknik Geofisika,102
+Institut Teknologi Sumatera,Teknik Sipil,117
+Institut Teknologi Sumatera,Teknik Informatika,117
+Institut Teknologi Sumatera,Fisika,44
+Institut Teknologi Sumatera,Arsitektur,88
+Institut Teknologi Sumatera,Teknik Lingkungan,88
+Institut Teknologi Sumatera,Teknik Geologi,59
+Institut Teknologi Sumatera,Matematika,59
+Institut Teknologi Sumatera,Teknik Mesin,59
+Institut Teknologi Sumatera,Biologi,44
+Institut Teknologi Sumatera,Teknik Industri,88
+Institut Teknologi Sumatera,Farmasi,73
+Institut Teknologi Sumatera,Teknik Kimia,59
+Institut Teknologi Sumatera,Kimia,59
+Institut Teknologi Sumatera,Teknik Fisika,59
+Institut Teknologi Sumatera,Teknik Kelautan,59
+Institut Teknologi Sumatera,Sains Atmosfir Dan Keplanetan,59
+Institut Teknologi Sumatera,Teknik Biosistem,44
+Institut Teknologi Sumatera,Teknologi Industri Pertanian,59
+Institut Teknologi Sumatera,Teknik Sistem Energi,59
+Institut Teknologi Sumatera,Teknologi Pangan,59
+Institut Teknologi Sumatera,Teknik Material,59
+Institut Teknologi Sumatera,Teknik Pertambangan,59
+Institut Teknologi Sumatera,Arsitektur Lanskap,59
+Institut Teknologi Sumatera,Desain Komunikasi Visual,59
+Universitas Sultan Ageng Tirtayasa,Teknik Mesin,48
+Universitas Sultan Ageng Tirtayasa,Teknik Elektro,48
+Universitas Sultan Ageng Tirtayasa,Teknik Industri,48
+Universitas Sultan Ageng Tirtayasa,Teknik Metalurgi,48
+Universitas Sultan Ageng Tirtayasa,Teknik Kimia,48
+Universitas Sultan Ageng Tirtayasa,Teknik Sipil,32
+Universitas Sultan Ageng Tirtayasa,Agribisnis,80
+Universitas Sultan Ageng Tirtayasa,Agroekoteknologi,80
+Universitas Sultan Ageng Tirtayasa,Perikanan,48
+Universitas Sultan Ageng Tirtayasa,Pendidikan Biologi,48
+Universitas Sultan Ageng Tirtayasa,Pendidikan Matematika,48
+Universitas Sultan Ageng Tirtayasa,Pendidikan Teknik Elektro,32
+Universitas Sultan Ageng Tirtayasa,Pendidikan Teknik Mesin,32
+Universitas Sultan Ageng Tirtayasa,Pendidikan Fisika,32
+Universitas Sultan Ageng Tirtayasa,Pendidikan Kimia,32
+Universitas Sultan Ageng Tirtayasa,Pendidikan Ipa,32
+Universitas Sultan Ageng Tirtayasa,Teknologi Pangan,48
+Universitas Sultan Ageng Tirtayasa,Ilmu Keolahragaan,16
+Universitas Sultan Ageng Tirtayasa,Gizi,16
+Universitas Indonesia,Pendidikan Dokter,72
+Universitas Indonesia,Pendidikan Dokter Gigi,48
+Universitas Indonesia,Matematika,28
+Universitas Indonesia,Fisika,40
+Universitas Indonesia,Kimia,40
+Universitas Indonesia,Biologi,40
+Universitas Indonesia,Farmasi,52
+Universitas Indonesia,Geografi,40
+Universitas Indonesia,Teknik Sipil,36
+Universitas Indonesia,Teknik Mesin,32
+Universitas Indonesia,Teknik Elektro,40
+Universitas Indonesia,Teknik Metalurgi & Material,36
+Universitas Indonesia,Arsitektur,24
+Universitas Indonesia,Teknik Kimia,36
+Universitas Indonesia,Ilmu Keperawatan,48
+Universitas Indonesia,Ilmu Komputer,60
+Universitas Indonesia,Ilmu Kesehatan Masyarakat,60
+Universitas Indonesia,Teknik Industri,48
+Universitas Indonesia,Teknik Perkapalan,24
+Universitas Indonesia,Teknik Lingkungan,28
+Universitas Indonesia,Teknik Komputer,32
+Universitas Indonesia,Sistem Informasi,60
+Universitas Indonesia,Arsitektur Interior,20
+Universitas Indonesia,Teknologi Bioproses,24
+Universitas Indonesia,Gizi,24
+Universitas Indonesia,Kesehatan Lingkungan,20
+Universitas Indonesia,Keselamatan Dan Kesehatan Kerja,20
+Universitas Indonesia,Geofisika,28
+Universitas Indonesia,Geologi,28
+Universitas Indonesia,Statistika,24
+Universitas Indonesia,Aktuaria,20
+Universitas Indonesia,Teknik Biomedis,16
+Universitas Singaperbangsa Karawang,Agroteknologi,79
+Universitas Singaperbangsa Karawang,Teknik Industri,111
+Universitas Singaperbangsa Karawang,Teknik Mesin,111
+Universitas Singaperbangsa Karawang,Teknik Elektro,79
+Universitas Singaperbangsa Karawang,Teknik Informatika,111
+Universitas Singaperbangsa Karawang,Pend. Matematika,95
+Universitas Singaperbangsa Karawang,Agribisnis,63
+Universitas Singaperbangsa Karawang,Farmasi,40
+Universitas Singaperbangsa Karawang,Gizi,32
+Universitas Singaperbangsa Karawang,Teknik Kimia,32
+Universitas Singaperbangsa Karawang,Ilmu Keolahragaan,32
+Institut Teknologi Bandung,Fak. Ilmu Dan Teknologi Kebumian (Fitb),112
+Institut Teknologi Bandung,Fak. Teknik Pertamb. & Perminyakan (Fttm),136
+Institut Teknologi Bandung,Fak. Matematika & Ilmu Penget. Alam (Fmipa),180
+Institut Teknologi Bandung,Fakultas Teknik Sipil & Lingkungan (Ftsl)  - Kampus Ganesa,136
+Institut Teknologi Bandung,Sekolah Farmasi (Sf),60
+Institut Teknologi Bandung,Sekolah Ilmu & Tekno. Hayati - Prog. Sains,64
+Institut Teknologi Bandung,Sekolah Tek. Elektro & Informatika (Stei),238
+Institut Teknologi Bandung,Fakultas Teknologi Industri (Fti) - Kampus Ganesa,144
+Institut Teknologi Bandung,Fakultas Teknik Mesin & Dirgantara (Ftmd),120
+Institut Teknologi Bandung,"Sek. Arsitektur, Perenc & Pengemb Kebijakan",68
+Institut Teknologi Bandung,Sekolah Ilmu & Tekno Hayati - Prog Rekayasa,80
+Institut Teknologi Bandung,Fakultas Teknik Sipil Dan Lingkungan (Ftsl) - Kampus Jatinangor,32
+Institut Teknologi Bandung,Fakultas Teknologi Industri (Fti) - Kampus Jatinangor,32
+Institut Teknologi Bandung,Fakultas Teknologi Industri (Fti) - Kampus Cirebon,20
+Institut Teknologi Bandung,"Sek. Arsitektur, Perenc &Amp Pengemb Kebijakan (Sappk) - Kampus Cirebon",14
+Universitas Padjadjaran,Pendidikan Dokter,125
+Universitas Padjadjaran,Matematika,50
+Universitas Padjadjaran,Kimia,50
+Universitas Padjadjaran,Fisika,40
+Universitas Padjadjaran,Biologi,60
+Universitas Padjadjaran,Statistika,50
+Universitas Padjadjaran,Agroteknologi,150
+Universitas Padjadjaran,Agribisnis,70
+Universitas Padjadjaran,Pendidikan Dokter Gigi,70
+Universitas Padjadjaran,Ilmu Peternakan,200
+Universitas Padjadjaran,Perikanan,80
+Universitas Padjadjaran,Ilmu Keperawatan,70
+Universitas Padjadjaran,Ilmu Kelautan,50
+Universitas Padjadjaran,Teknologi  Pangan,60
+Universitas Padjadjaran,Teknik Pertanian,50
+Universitas Padjadjaran,Farmasi,80
+Universitas Padjadjaran,Teknik Geologi,80
+Universitas Padjadjaran,Psikologi,80
+Universitas Padjadjaran,Geofisika,30
+Universitas Padjadjaran,Teknik Informatika,40
+Universitas Padjadjaran,Teknologi Industri Pertanian,30
+Universitas Padjadjaran,Teknik Elektro,30
+Universitas Padjadjaran,Kedokteran Hewan,25
+Universitas Padjadjaran,Ilmu Aktuaria,35
+Universitas Padjadjaran,Keperawatan Psdku Garut,30
+Universitas Padjadjaran,Perikanan Psdku Pangandaran,30
+Universitas Padjadjaran,Peternakan Psdku Pangandaran,30
+Universitas Padjadjaran,Keperawatan Psdku Pangandaran,30
+Universitas Padjadjaran,Manajemen,40
+Universitas Pendidikan Indonesia,Pendidikan Matematika,41
+Universitas Pendidikan Indonesia,Pendidikan Fisika,41
+Universitas Pendidikan Indonesia,Pendidikan Biologi,41
+Universitas Pendidikan Indonesia,Pendidikan Kimia,41
+Universitas Pendidikan Indonesia,Pendidikan Ilmu Komputer,41
+Universitas Pendidikan Indonesia,Matematika,41
+Universitas Pendidikan Indonesia,Fisika,21
+Universitas Pendidikan Indonesia,Biologi,21
+Universitas Pendidikan Indonesia,Kimia,36
+Universitas Pendidikan Indonesia,Ilmu Komputer,41
+Universitas Pendidikan Indonesia,Pendidikan Teknik Arsitektur,27
+Universitas Pendidikan Indonesia,Pendidikan Teknik Bangunan,27
+Universitas Pendidikan Indonesia,Pendidikan Teknik Elektro,50
+Universitas Pendidikan Indonesia,Pendidikan Teknik Mesin,41
+Universitas Pendidikan Indonesia,Ilmu Keolahragaan,59
+Universitas Pendidikan Indonesia,Teknik Elektro,50
+Universitas Pendidikan Indonesia,Pendidikan Teknologi Agro Industri ,36
+Universitas Pendidikan Indonesia,Teknik Sipil,54
+Universitas Pendidikan Indonesia,Pendidikan Ilmu Pengetahuan Alam,16
+Universitas Pendidikan Indonesia,Arsitektur,27
+Universitas Pendidikan Indonesia,Pendidikan Kelautan Dan Perikanan Kampus Serang,45
+Universitas Pendidikan Indonesia,Pendidikan Multimedia Kampus Cibiru,45
+Universitas Pendidikan Indonesia,Pendidikan Sistem Dan Teknologi Informasi Kampus Purwakarta,45
+Universitas Islam Negeri Sunan Gunung Djati,Matematika,32
+Universitas Islam Negeri Sunan Gunung Djati,Biologi,32
+Universitas Islam Negeri Sunan Gunung Djati,Fisika,16
+Universitas Islam Negeri Sunan Gunung Djati,Kimia,32
+Universitas Islam Negeri Sunan Gunung Djati,Teknik Informatika,48
+Universitas Islam Negeri Sunan Gunung Djati,Teknik Elektro,32
+Universitas Islam Negeri Sunan Gunung Djati,Agroteknologi,32
+Institut Pertanian Bogor,Agribisnis,55
+Institut Pertanian Bogor,Agronomi Dan Hortikultura,78
+Institut Pertanian Bogor,Arsitektur Lansekap,35
+Institut Pertanian Bogor,Biokimia,40
+Institut Pertanian Bogor,Biologi,42
+Institut Pertanian Bogor,Ekonomi Sumberdaya Dan Lingkungan,40
+Institut Pertanian Bogor,Ilmu Dan Teknologi Kelautan,41
+Institut Pertanian Bogor,Ilmu Komputer,49
+Institut Pertanian Bogor,Kedokteran Hewan,86
+Institut Pertanian Bogor,Kimia,41
+Institut Pertanian Bogor,Komunikasi Dan Pengembangan Masyarakat,53
+Institut Pertanian Bogor,Konservasi Sumberdayahutan& Ekowisata,45
+Institut Pertanian Bogor,Manajemen Hutan,43
+Institut Pertanian Bogor,Statistika,37
+Institut Pertanian Bogor,Teknik Pertanian Dan Biosistem,50
+Institut Pertanian Bogor,Teknologi Hasil Hutan,30
+Institut Pertanian Bogor,Teknologi Industri Pertanian,63
+Institut Pertanian Bogor,Teknologi Pangan,65
+Institut Pertanian Bogor,Nutrisi Dan Teknologi Pakan,50
+Institut Pertanian Bogor,Teknologi Produksi Ternak,40
+Institut Pertanian Bogor,Teknik Sipil Dan Lingkungan,41
+Institut Pertanian Bogor,Teknologi & Manajemen Perikanan Budidaya,50
+Institut Pertanian Bogor,Ekonomi Pembangunan,37
+Institut Pertanian Bogor,Manajemen,53
+Institut Pertanian Bogor,Ilmu Gizi,37
+Institut Pertanian Bogor,Ekonomi Syariah,35
+Institut Pertanian Bogor,Manajemen Sumberdaya Lahan,35
+Institut Pertanian Bogor,Proteksi Tanaman,40
+Institut Pertanian Bogor,Manajemen Sumberdaya Perairan,39
+Institut Pertanian Bogor,Teknologi Hasil Perairan,39
+Institut Pertanian Bogor,Teknologi & Manajemen Perikanan Tangkap,38
+Institut Pertanian Bogor,Silvikultur,32
+Institut Pertanian Bogor,Meteorologi Terapan,35
+Institut Pertanian Bogor,Matematika,31
+Institut Pertanian Bogor,Fisika,35
+Institut Pertanian Bogor,Ilmu Keluarga Dan Konsumen,37
+Institut Pertanian Bogor,Bisnis,41
+Institut Pertanian Bogor,Teknologi Hasil Ternak,28
+Institut Pertanian Bogor,Aktuaria,27
+Universitas Siliwangi,Pendidikan Matematika,84
+Universitas Siliwangi,Pendidikan Biologi,72
+Universitas Siliwangi,Agroteknologi ,72
+Universitas Siliwangi,Agribisnis ,48
+Universitas Siliwangi,Teknik Sipil ,48
+Universitas Siliwangi,Teknik Elektro ,48
+Universitas Siliwangi,Teknik Informatika,48
+Universitas Siliwangi,Kesehatan Masyarakat,72
+Universitas Siliwangi,Pendidikan Fisika,54
+Universitas Siliwangi,Gizi,48
+Universitas Islam Negeri Jakarta,Sosial Ekonomi Pertanian / Agribisnis,52
+Universitas Islam Negeri Jakarta,Teknik Informatika,52
+Universitas Islam Negeri Jakarta,Sistem Informasi,52
+Universitas Islam Negeri Jakarta,Matematika,32
+Universitas Islam Negeri Jakarta,Biologi,48
+Universitas Islam Negeri Jakarta,Kimia,48
+Universitas Islam Negeri Jakarta,Fisika,40
+Universitas Islam Negeri Jakarta,Kesehatan Masyarakat,48
+Universitas Islam Negeri Jakarta,Farmasi,44
+Universitas Islam Negeri Jakarta,Ilmu Keperawatan,40
+Universitas Islam Negeri Jakarta,Pendidikan Dokter,40
+Universitas Islam Negeri Jakarta,Pendidikan Matematika,39
+Universitas Islam Negeri Jakarta,Pendidikan Kimia,39
+Universitas Islam Negeri Jakarta,Teknik Pertambangan,16
+Universitas Negeri Jakarta,Pendidikan Matematika,20
+Universitas Negeri Jakarta,Pendidikan Fisika,40
+Universitas Negeri Jakarta,Pendidikan Kimia,40
+Universitas Negeri Jakarta,Pendidikan Biologi,40
+Universitas Negeri Jakarta,Matematika,20
+Universitas Negeri Jakarta,Fisika,40
+Universitas Negeri Jakarta,Kimia,23
+Universitas Negeri Jakarta,Biologi,40
+Universitas Negeri Jakarta,Pendidikan Vokasional Teknik Elektro,30
+Universitas Negeri Jakarta,Pendidikan Vokasional Teknik Mesin,45
+Universitas Negeri Jakarta,Pendidikan Vokasional Konstruksi  Bangunan,43
+Universitas Negeri Jakarta,Ilmu Keolahragaan,30
+Universitas Negeri Jakarta,Pendidikan Informatika,45
+Universitas Negeri Jakarta,Pendidikan Vokasional Teknik Elektronika,40
+Universitas Negeri Jakarta,Ilmu Komputer,20
+Universitas Negeri Jakarta,Statistika,20
+Universitas Negeri Jakarta,Rekayasa Keselamatan Kebakaran,20
+"Upn ""Veteran"" Jakarta",Teknik Mesin,53
+"Upn ""Veteran"" Jakarta",Teknik Perkapalan,35
+"Upn ""Veteran"" Jakarta",Teknik Industri,53
+"Upn ""Veteran"" Jakarta",Informatika,75
+"Upn ""Veteran"" Jakarta",Sistem Informasi,75
+"Upn ""Veteran"" Jakarta",Kedokteran,75
+"Upn ""Veteran"" Jakarta",Keperawatan,40
+"Upn ""Veteran"" Jakarta",Kesehatan Masyarakat,70
+"Upn ""Veteran"" Jakarta",Gizi,53
+"Upn ""Veteran"" Jakarta",Teknik Elektro,20
+"Upn ""Veteran"" Jakarta",Farmasi,15
+Universitas Jenderal Soedirman,Biologi,75
+Universitas Jenderal Soedirman,Kimia,40
+Universitas Jenderal Soedirman,Matematika,40
+Universitas Jenderal Soedirman,Fisika,40
+Universitas Jenderal Soedirman,Manajemen Sumberdaya Perairan,30
+Universitas Jenderal Soedirman,Budidaya Perairan,30
+Universitas Jenderal Soedirman,Teknik Pertanian,50
+Universitas Jenderal Soedirman,Teknik Elektro,50
+Universitas Jenderal Soedirman,Teknik Sipil,50
+Universitas Jenderal Soedirman,Pendidikan Dokter,60
+Universitas Jenderal Soedirman,Kesehatan Masyarakat,60
+Universitas Jenderal Soedirman,Keperawatan,40
+Universitas Jenderal Soedirman,Farmasi,50
+Universitas Jenderal Soedirman,Teknik Geologi,30
+Universitas Jenderal Soedirman,Ilmu Kelautan,30
+Universitas Jenderal Soedirman,Agroteknologi,110
+Universitas Jenderal Soedirman,Agribisnis,60
+Universitas Jenderal Soedirman,Ilmu Dan Teknologi Pangan,50
+Universitas Jenderal Soedirman,Peternakan,110
+Universitas Jenderal Soedirman,Teknik Informatika,32
+Universitas Jenderal Soedirman,Pendidikan Dokter Gigi,25
+Universitas Jenderal Soedirman,Ilmu Gizi,40
+Universitas Jenderal Soedirman,Pendidikan Jasmani Kesehatan Dan Rekreasi,35
+Universitas Jenderal Soedirman,Teknik Industri,22
+Universitas Tidar,Agroteknologi,48
+Universitas Tidar,Teknik Sipil,48
+Universitas Tidar,Teknik Mesin,48
+Universitas Tidar,Teknik Elektro,48
+Universitas Tidar,Peternakan,48
+Universitas Tidar,Pendidikan Ilmu Pengetahuan Alam,48
+Universitas Tidar,Pendidikan Biologi,48
+Universitas Tidar,Pendidikan Matematika,48
+Universitas Tidar,Akuakultur,48
+Universitas Sebelas Maret,Kedokteran,110
+Universitas Sebelas Maret,Psikologi,60
+Universitas Sebelas Maret,Agroteknologi / Agroekoteknologi,100
+Universitas Sebelas Maret,Agribisnis,60
+Universitas Sebelas Maret,Peternakan,70
+Universitas Sebelas Maret,Ilmu Dan Teknologi Pangan,50
+Universitas Sebelas Maret,Teknik Sipil,80
+Universitas Sebelas Maret,Arsitektur,50
+Universitas Sebelas Maret,Teknik Industri,55
+Universitas Sebelas Maret,Teknik Mesin,50
+Universitas Sebelas Maret,Teknik Kimia,50
+Universitas Sebelas Maret,Matematika,50
+Universitas Sebelas Maret,Fisika,50
+Universitas Sebelas Maret,Kimia,45
+Universitas Sebelas Maret,Biologi,45
+Universitas Sebelas Maret,Perencanaan Wilayah Dan Kota (Pwk),23
+Universitas Sebelas Maret,Informatika,40
+Universitas Sebelas Maret,Pendidikan Fisika,40
+Universitas Sebelas Maret,Pendidikan Kimia,40
+Universitas Sebelas Maret,Pendidikan Biologi,45
+Universitas Sebelas Maret,Pendidikan Matematika,40
+Universitas Sebelas Maret,Pendidikan Teknik Mesin,40
+Universitas Sebelas Maret,Pendidikan Teknik Bangunan,40
+Universitas Sebelas Maret,Pendidikan Teknik Informatika & Komputer,40
+Universitas Sebelas Maret,Ilmu Tanah,50
+Universitas Sebelas Maret,Penyuluhan Dan Komunikasi Pertanian,50
+Universitas Sebelas Maret,Farmasi,30
+Universitas Sebelas Maret,Teknik Elektro,40
+Universitas Sebelas Maret,Statistika,50
+Universitas Sebelas Maret,Pendidikan Ipa,40
+Universitas Sebelas Maret,Ilmu Lingkungan,50
+Universitas Sebelas Maret,Pengelolaan Hutan,25
+Universitas Diponegoro,Kesehatan Masyarakat,150
+Universitas Diponegoro,Kedokteran,85
+Universitas Diponegoro,Keperawatan,60
+Universitas Diponegoro,Gizi,65
+Universitas Diponegoro,Matematika,70
+Universitas Diponegoro,Biologi,83
+Universitas Diponegoro,Kimia ,83
+Universitas Diponegoro,Fisika,83
+Universitas Diponegoro,Statistika,83
+Universitas Diponegoro,Informatika,83
+Universitas Diponegoro,Manajemen Sumberdaya Perairan,40
+Universitas Diponegoro,Akuakultur,60
+Universitas Diponegoro,Perikanan Tangkap,50
+Universitas Diponegoro,Ilmu Kelautan  ,90
+Universitas Diponegoro,Oceanografi  ,60
+Universitas Diponegoro,Teknologi Hasil Perikanan,50
+Universitas Diponegoro,Teknik Sipil,80
+Universitas Diponegoro,Arsitektur,65
+Universitas Diponegoro,Teknik Mesin,90
+Universitas Diponegoro,Teknik Kimia,113
+Universitas Diponegoro,Teknik Elektro,75
+Universitas Diponegoro,Perencanaan Wilayah Dan Kota,79
+Universitas Diponegoro,Teknik Industri,75
+Universitas Diponegoro,Teknik Lingkungan,60
+Universitas Diponegoro,Teknik Perkapalan  ,65
+Universitas Diponegoro,Teknik Geologi,45
+Universitas Diponegoro,Teknik Geodesi,60
+Universitas Diponegoro,Teknik Komputer,60
+Universitas Diponegoro,Peternakan,125
+Universitas Diponegoro,Teknologi Pangan,50
+Universitas Diponegoro,Agroekoteknologi,50
+Universitas Diponegoro,Agribisnis,50
+Universitas Diponegoro,Kedokteran Gigi,13
+Universitas Diponegoro,Farmasi,25
+Universitas Diponegoro,Bioteknologi,45
+Universitas Negeri Semarang,Pendidikan Matematika,76
+Universitas Negeri Semarang,Pendidikan Fisika,42
+Universitas Negeri Semarang,Pendidikan Kimia,42
+Universitas Negeri Semarang,Pendidikan Biologi,42
+Universitas Negeri Semarang,Pendidikan Teknik Bangunan,24
+Universitas Negeri Semarang,Pendidikan Teknik Mesin,36
+Universitas Negeri Semarang,Pendidikan Teknik Elektro,24
+Universitas Negeri Semarang,Ilmu Keolahragaan,48
+Universitas Negeri Semarang,Matematika,18
+Universitas Negeri Semarang,Fisika,32
+Universitas Negeri Semarang,Kimia,32
+Universitas Negeri Semarang,Biologi,32
+Universitas Negeri Semarang,Kesehatan Masyarakat,72
+Universitas Negeri Semarang,Pendidikan Ipa,32
+Universitas Negeri Semarang,Pend. Teknik Informatika & Komputer,24
+Universitas Negeri Semarang,Teknik Arsitektur,24
+Universitas Negeri Semarang,Pendidikan Teknik Otomotif,36
+Universitas Negeri Semarang,Teknik Kimia,42
+Universitas Negeri Semarang,Teknik Mesin,24
+Universitas Negeri Semarang,Teknik Sipil,32
+Universitas Negeri Semarang,Teknik Informatika,32
+Universitas Negeri Semarang,Teknik Elektro,16
+Universitas Negeri Semarang,Gizi,48
+Universitas Negeri Semarang,Sistem Informasi,16
+Universitas Negeri Semarang,Ilmu Lingkungan,16
+Universitas Negeri Semarang,Farmasi,16
+Universitas Islam Negeri Walisongo,Gizi,48
+Universitas Islam Negeri Walisongo,Matematika,24
+Universitas Islam Negeri Walisongo,Kimia,24
+Universitas Islam Negeri Walisongo,Fisika,12
+Universitas Islam Negeri Walisongo,Biologi,24
+Universitas Islam Negeri Walisongo,Teknologi Informasi,24
+Universitas Gadjah Mada,Biologi,102
+Universitas Gadjah Mada,Farmasi,108
+Universitas Gadjah Mada,Geografi Lingkungan,45
+Universitas Gadjah Mada,Kartografi Dan Penginderaan Jauh,34
+Universitas Gadjah Mada,Pembangunan Wilayah,30
+Universitas Gadjah Mada,Kedokteran,79
+Universitas Gadjah Mada,Ilmu Keperawatan,45
+Universitas Gadjah Mada,Gizi Kesehatan,45
+Universitas Gadjah Mada,Kedokteran Gigi,68
+Universitas Gadjah Mada,Kedokteran Hewan,90
+Universitas Gadjah Mada,Fisika,32
+Universitas Gadjah Mada,Kimia,63
+Universitas Gadjah Mada,Matematika,32
+Universitas Gadjah Mada,Ilmu Komputer,32
+Universitas Gadjah Mada,Statistika,27
+Universitas Gadjah Mada,Geofisika,27
+Universitas Gadjah Mada,Elektronika Dan Instrumentasi,32
+Universitas Gadjah Mada,Agronomi,36
+Universitas Gadjah Mada,Ilmu Tanah,27
+Universitas Gadjah Mada,Ekonomi Pertanian Dan Agribisnis,36
+Universitas Gadjah Mada,Proteksi Tanaman (Ilmu Hama Dan Penyakit Tumbuhan),30
+Universitas Gadjah Mada,Penyuluhan Dan Komunikasi Pertanian,18
+Universitas Gadjah Mada,Akuakultur (Budidaya Perikanan),27
+Universitas Gadjah Mada,Teknologi Hasil Perikanan,27
+Universitas Gadjah Mada,Manajemen Sumberdaya Akuatik (Manajemen Sumber Daya Perikanan),27
+Universitas Gadjah Mada,Mikrobiologi Pertanian,14
+Universitas Gadjah Mada,Ilmu Dan Industri Peternakan,135
+Universitas Gadjah Mada,Arsitektur,36
+Universitas Gadjah Mada,Perencanaan Wilayah Dan Kota,36
+Universitas Gadjah Mada,Teknik Geodesi,61
+Universitas Gadjah Mada,Teknik Geologi,54
+Universitas Gadjah Mada,Teknik Kimia,68
+Universitas Gadjah Mada,Teknik Elektro,45
+Universitas Gadjah Mada,Teknik Mesin,63
+Universitas Gadjah Mada,Teknik Sipil,68
+Universitas Gadjah Mada,Teknik Nuklir,30
+Universitas Gadjah Mada,Teknik Fisika,54
+Universitas Gadjah Mada,Teknik Industri,50
+Universitas Gadjah Mada,Teknik Pertanian,45
+Universitas Gadjah Mada,Teknologi Pangan Dan Hasil Pertanian,50
+Universitas Gadjah Mada,Teknologi Industri Pertanian,50
+Universitas Gadjah Mada,Higiene Gigi,23
+Universitas Gadjah Mada,Kehutanan,124
+Universitas Gadjah Mada,Teknologi Informasi,45
+Universitas Gadjah Mada,Ilmu Aktuaria,18
+Universitas Gadjah Mada,Manajemen,59
+Universitas Gadjah Mada,Pariwisata,23
+Universitas Negeri Yogyakarta,Pendidikan Matematika,32
+Universitas Negeri Yogyakarta,Pendidikan Fisika,32
+Universitas Negeri Yogyakarta,Pendidikan Kimia,32
+Universitas Negeri Yogyakarta,Pendidikan Biologi,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Elektronika,16
+Universitas Negeri Yogyakarta,Pendidikan Teknik Otomotif,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Mesin,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Elektro,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Sipil & Perencanaan,48
+Universitas Negeri Yogyakarta,Matematika,32
+Universitas Negeri Yogyakarta,Fisika,32
+Universitas Negeri Yogyakarta,Kimia,32
+Universitas Negeri Yogyakarta,Biologi,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Mekatronika,32
+Universitas Negeri Yogyakarta,Pendidikan Teknik Informatika,16
+Universitas Negeri Yogyakarta,Pendidikan Ipa,32
+Universitas Negeri Yogyakarta,Ilmu Keolahragaan,16
+Universitas Negeri Yogyakarta,Statistika,16
+Universitas Negeri Yogyakarta,Pendidikan Jasmani Kesehatan Dan Rekreasi,80
+Universitas Negeri Yogyakarta,Pendidikan Kepelatihan Olahraga,48
+Universitas Negeri Yogyakarta,Pgsd Pendidikan Jasmani,48
+Universitas Negeri Yogyakarta,Teknik Elektro,16
+Universitas Negeri Yogyakarta,Teknologi Informasi,16
+Universitas Negeri Yogyakarta,Teknik Manufaktur,16
+"Upn ""Veteran"" Yogyakarta",Teknik Geologi,78
+"Upn ""Veteran"" Yogyakarta",Teknik Pertambangan,90
+"Upn ""Veteran"" Yogyakarta",Teknik Perminyakan,90
+"Upn ""Veteran"" Yogyakarta",Teknik Lingkungan,63
+"Upn ""Veteran"" Yogyakarta",Teknik Geofisika,45
+"Upn ""Veteran"" Yogyakarta",Teknik Kimia,80
+"Upn ""Veteran"" Yogyakarta",Teknik Industri,80
+"Upn ""Veteran"" Yogyakarta",Teknik Informatika,100
+"Upn ""Veteran"" Yogyakarta",Agroteknologi,125
+"Upn ""Veteran"" Yogyakarta",Agribisnis,60
+"Upn ""Veteran"" Yogyakarta",Metalurgi,30
+"Upn ""Veteran"" Yogyakarta",Ilmu Tanah,60
+"Upn ""Veteran"" Yogyakarta",Sistem Informasi,45
+"Upn ""Veteran"" Yogyakarta",Teknik Geomatika,35
+Universitas Islam Negeri Sunan Kalijaga,Matematika,27
+Universitas Islam Negeri Sunan Kalijaga,Fisika,27
+Universitas Islam Negeri Sunan Kalijaga,Kimia,27
+Universitas Islam Negeri Sunan Kalijaga,Biologi,27
+Universitas Islam Negeri Sunan Kalijaga,Teknik Informatika,27
+Universitas Islam Negeri Sunan Kalijaga,Teknik Industri,27
+Universitas Islam Negeri Sunan Kalijaga,Pendidikan Matematika,27
+Universitas Islam Negeri Sunan Kalijaga,Pendidikan Fisika,27
+Universitas Islam Negeri Sunan Kalijaga,Pendidikan Kimia,27
+Universitas Islam Negeri Sunan Kalijaga,Pendidikan Biologi,27
+Universitas Jember,Agroteknologi / Agroekoteknologi,75
+Universitas Jember,Agribisnis,75
+Universitas Jember,Pendidikan Matematika,72
+Universitas Jember,Pendidikan Fisika,65
+Universitas Jember,Pendidikan Biologi,70
+Universitas Jember,Teknologi Hasil Pertanian,82
+Universitas Jember,Teknik Pertanian,55
+Universitas Jember,Pendidikan  Dokter Gigi,70
+Universitas Jember,Matematika,60
+Universitas Jember,Fisika,45
+Universitas Jember,Kimia,40
+Universitas Jember,Biologi,45
+Universitas Jember,Pendidikan Dokter,70
+Universitas Jember,Kesehatan Masyarakat,100
+Universitas Jember,Teknik Mesin,60
+Universitas Jember,Teknik Elektro,60
+Universitas Jember,Teknik Sipil,72
+Universitas Jember,Farmasi,80
+Universitas Jember,Ilmu Keperawatan,100
+Universitas Jember,Sistem Informasi,75
+Universitas Jember,Teknologi Industri Pertanian,40
+Universitas Jember,Ilmu Tanah,25
+Universitas Jember,Proteksi Tanaman,25
+Universitas Jember,Teknologi Informasi,50
+Universitas Jember,Pendidikan Ipa,62
+Universitas Jember,Perencanaan Wilayah Dan Kota,40
+Universitas Jember,Teknik Kimia,60
+Universitas Jember,Agronomi,25
+Universitas Jember,Ilmu Pertanian,25
+Universitas Jember,Informatika,50
+Universitas Jember,Penyuluhan Pertanian,25
+Universitas Jember,Teknik Lingkungan,40
+Universitas Jember,Teknik Konstruksi Perkapalan,30
+Universitas Jember,Peternakan,25
+Universitas Jember,Gizi,25
+Universitas Jember,Teknik Pertambangan,20
+Universitas Jember,Teknik Perminyakan,20
+Universitas Brawijaya,Manajemen Sumberdaya Perairan,72
+Universitas Brawijaya,Budidaya Perairan,72
+Universitas Brawijaya,Teknik Sipil,70
+Universitas Brawijaya,Teknik Mesin,80
+Universitas Brawijaya,Teknik Elektro,80
+Universitas Brawijaya,Arsitektur,70
+Universitas Brawijaya,Teknik Pengairan,70
+Universitas Brawijaya,Pendidikan Dokter,100
+Universitas Brawijaya,Ilmu Dan Teknologi Pangan,68
+Universitas Brawijaya,Biologi,70
+Universitas Brawijaya,Fisika,48
+Universitas Brawijaya,Kimia,80
+Universitas Brawijaya,Matematika,80
+Universitas Brawijaya,Pemanfaatan Sumberdaya Perikanan,72
+Universitas Brawijaya,Teknologi Hasil Perikanan,72
+Universitas Brawijaya,Agrobisnis Perikanan,72
+Universitas Brawijaya,Keteknikan Pertanian,52
+Universitas Brawijaya,Statistika,80
+Universitas Brawijaya,Perencanaan Wilayah & Kota,70
+Universitas Brawijaya,Teknologi Industri Pertanian,100
+Universitas Brawijaya,Ilmu Keperawatan,56
+Universitas Brawijaya,Gizi Kesehatan / Ilmu Gizi,48
+Universitas Brawijaya,Teknik Industri,80
+Universitas Brawijaya,Teknik Informatika,96
+Universitas Brawijaya,Agroekoteknologi,312
+Universitas Brawijaya,Agribisnis,168
+Universitas Brawijaya,Peternakan,264
+Universitas Brawijaya,Pendidikan Dokter Hewan,80
+Universitas Brawijaya,Pendidikan Dokter Gigi,40
+Universitas Brawijaya,Ilmu Kelautan,72
+Universitas Brawijaya,Kebidanan,44
+Universitas Brawijaya,Farmasi,48
+Universitas Brawijaya,Teknik Komputer,64
+Universitas Brawijaya,Sistem Informasi,64
+Universitas Brawijaya,Teknik Kimia,60
+Universitas Brawijaya,Instrumentasi,36
+Universitas Brawijaya,Teknik Geofisika,36
+Universitas Brawijaya,Bioteknologi,52
+Universitas Brawijaya,Teknologi Bioproses,36
+Universitas Brawijaya,Teknik Lingkungan,52
+Universitas Brawijaya,Pendidikan Teknologi Informasi,32
+Universitas Brawijaya,Teknologi Informasi,32
+Universitas Brawijaya,Agroekoteknologi (Psdku Kediri),20
+Universitas Brawijaya,Agribisnis (Psdku Kediri),20
+Universitas Brawijaya,Peternakan (Psdku Kediri),16
+Universitas Brawijaya,Akuakultur (Psdku Kediri) ,20
+Universitas Brawijaya,Sosial Ekonomi Perikanan (Psdku Kediri),20
+Universitas Negeri Malang,Pendidikan Matematika  ,70
+Universitas Negeri Malang,Pendidikan Fisika  ,53
+Universitas Negeri Malang,Pendidikan Kimia ,55
+Universitas Negeri Malang,Pendidikan Biologi ,55
+Universitas Negeri Malang,Pendidikan Teknik Mesin ,50
+Universitas Negeri Malang,Pendidikan Teknik Bangunan ,50
+Universitas Negeri Malang,Pendidikan Teknik Informatika ,45
+Universitas Negeri Malang,Pendidikan Teknik Otomotif ,50
+Universitas Negeri Malang,Ilmu Keolahragaan ,43
+Universitas Negeri Malang,Matematika ,70
+Universitas Negeri Malang,Fisika ,60
+Universitas Negeri Malang,Kimia ,55
+Universitas Negeri Malang,Biologi ,55
+Universitas Negeri Malang,Pendidikan Teknik Elektro ,45
+Universitas Negeri Malang,Teknik Sipil,70
+Universitas Negeri Malang,Pendidikan Ilmu Pengetahuan Alam,53
+Universitas Negeri Malang,Ilmu Kesehatan Masyarakat,80
+Universitas Negeri Malang,Teknik Mesin,30
+Universitas Negeri Malang,Teknik Elektro,45
+Universitas Negeri Malang,Teknik Informatika,45
+Universitas Negeri Malang,Teknik Industri,30
+Universitas Islam Negeri Malang,Matematika,66
+Universitas Islam Negeri Malang,Biologi,66
+Universitas Islam Negeri Malang,Kimia,66
+Universitas Islam Negeri Malang,Fisika,50
+Universitas Islam Negeri Malang,Teknik Informatika,90
+Universitas Islam Negeri Malang,Teknik Arsitektur,68
+Universitas Islam Negeri Malang,Farmasi,66
+Universitas Islam Negeri Malang,Pendidikan Dokter,30
+Universitas Airlangga,Pendidikan Dokter,100
+Universitas Airlangga,Pendidikan Dokter Gigi,72
+Universitas Airlangga,Pendidikan Apoteker,100
+Universitas Airlangga,Kedokteran Hewan,100
+Universitas Airlangga,Matematika,40
+Universitas Airlangga,Biologi,40
+Universitas Airlangga,Fisika,40
+Universitas Airlangga,Kimia,40
+Universitas Airlangga,Kesehatan Masyarakat,112
+Universitas Airlangga,Pendidikan Ners,70
+Universitas Airlangga,Budidaya Perairan,72
+Universitas Airlangga,Pendidikan Bidan,30
+Universitas Airlangga,Teknobiomedik,32
+Universitas Airlangga,Ilmu Dan Teknologi Lingkungan,32
+Universitas Airlangga,Sistem Informasi,32
+Universitas Airlangga,Statistika,32
+Universitas Airlangga,Ilmu Gizi,48
+Universitas Airlangga,Pendidikan Dokter Hewan (Psdku Banyuwangi),20
+Universitas Airlangga,Kesehatan Masyarakat (Psdku Banyuwangi),20
+Universitas Airlangga,Budidaya Perairan (Psdku Banyuwangi),20
+Universitas Airlangga,Teknologi Industri Hasil Perikanan,48
+Universitas Airlangga,Ilmu Hukum,104
+Institut Teknologi Sepuluh Nopember,Fisika,48
+Institut Teknologi Sepuluh Nopember,Matematika,52
+Institut Teknologi Sepuluh Nopember,Statistika,60
+Institut Teknologi Sepuluh Nopember,Kimia,48
+Institut Teknologi Sepuluh Nopember,Biologi,40
+Institut Teknologi Sepuluh Nopember,Teknik Mesin,88
+Institut Teknologi Sepuluh Nopember,Teknik Elektro,96
+Institut Teknologi Sepuluh Nopember,Teknik Kimia,80
+Institut Teknologi Sepuluh Nopember,Teknik Fisika,72
+Institut Teknologi Sepuluh Nopember,Teknik Industri,80
+Institut Teknologi Sepuluh Nopember,Teknik Material,64
+Institut Teknologi Sepuluh Nopember,Teknik Sipil,60
+Institut Teknologi Sepuluh Nopember,Arsitektur,40
+Institut Teknologi Sepuluh Nopember,Teknik Lingkungan,48
+Institut Teknologi Sepuluh Nopember,Teknik Geomatika,48
+Institut Teknologi Sepuluh Nopember,Perencanaan Wilayah Dan Kota,44
+Institut Teknologi Sepuluh Nopember,Teknik Perkapalan,36
+Institut Teknologi Sepuluh Nopember,Teknik Kelautan,52
+Institut Teknologi Sepuluh Nopember,Teknik Sistem Perkapalan,52
+Institut Teknologi Sepuluh Nopember,Informatika,100
+Institut Teknologi Sepuluh Nopember,Sistem Informasi,60
+Institut Teknologi Sepuluh Nopember,Desain Produk Industri,27
+Institut Teknologi Sepuluh Nopember,Teknik Transportasi Laut,20
+Institut Teknologi Sepuluh Nopember,Tek. Sist Perkapalan (Glr Ganda Its-Jerman),24
+Institut Teknologi Sepuluh Nopember,Teknik Komputer,32
+Institut Teknologi Sepuluh Nopember,Teknik Geofisika,24
+Institut Teknologi Sepuluh Nopember,Desain Interior,24
+Institut Teknologi Sepuluh Nopember,Teknik Biomedik,32
+Institut Teknologi Sepuluh Nopember,Sains Aktuaria,32
+Institut Teknologi Sepuluh Nopember,Teknologi Informasi,20
+Institut Teknologi Sepuluh Nopember,Desain Komunikasi Visual,24
+Universitas Negeri Surabaya,Pend. Matematika,45
+Universitas Negeri Surabaya,Pend. Fisika,45
+Universitas Negeri Surabaya,Pend. Kimia,45
+Universitas Negeri Surabaya,Pend. Biologi,45
+Universitas Negeri Surabaya,Matematika,32
+Universitas Negeri Surabaya,Fisika,32
+Universitas Negeri Surabaya,Kimia,32
+Universitas Negeri Surabaya,Biologi,33
+Universitas Negeri Surabaya,Pend. Sains,43
+Universitas Negeri Surabaya,Pend. Teknik Elektro,36
+Universitas Negeri Surabaya,Pend. Teknik Mesin,36
+Universitas Negeri Surabaya,Pend. Teknik Bangunan,18
+Universitas Negeri Surabaya,Ilmu Keolahragaan,81
+Universitas Negeri Surabaya,Teknik Sipil,36
+Universitas Negeri Surabaya,Pendidikan Teknologi Informasi,36
+Universitas Negeri Surabaya,Teknik Elektro,36
+Universitas Negeri Surabaya,Teknik Mesin,41
+Universitas Negeri Surabaya,Sistem Informasi,54
+Universitas Negeri Surabaya,Teknik Informatika,54
+Universitas Negeri Surabaya,Gizi,36
+Universitas Trunojoyo Madura,Agroekoteknologi,68
+Universitas Trunojoyo Madura,Agribisnis,68
+Universitas Trunojoyo Madura,Teknologi Industri Pertanian,68
+Universitas Trunojoyo Madura,Ilmu Kelautan,68
+Universitas Trunojoyo Madura,Teknik Industri,100
+Universitas Trunojoyo Madura,Teknik Informatika,100
+Universitas Trunojoyo Madura,Teknik Elektro,60
+Universitas Trunojoyo Madura,Pendidikan Informatika,80
+Universitas Trunojoyo Madura,Pendidikan Ilmu Pengetahuan Alam,80
+Universitas Trunojoyo Madura,Manajemen Sumberdaya Perairan,45
+Universitas Trunojoyo Madura,Teknik Mesin,60
+Universitas Trunojoyo Madura,Teknik Mekatronika,60
+Universitas Trunojoyo Madura,Sistem Informasi,100
+"Upn ""Veteran"" Jawa Timur",Agribisnis,100
+"Upn ""Veteran"" Jawa Timur",Agroteknologi ,120
+"Upn ""Veteran"" Jawa Timur",Teknik Kimia,120
+"Upn ""Veteran"" Jawa Timur",Teknik Industri,100
+"Upn ""Veteran"" Jawa Timur",Teknologi Pangan,60
+"Upn ""Veteran"" Jawa Timur",Teknik Informatika,100
+"Upn ""Veteran"" Jawa Timur",Sistem Informasi,60
+"Upn ""Veteran"" Jawa Timur",Arsitektur,40
+"Upn ""Veteran"" Jawa Timur",Teknik Lingkungan,60
+"Upn ""Veteran"" Jawa Timur",Teknik Sipil,60
+"Upn ""Veteran"" Jawa Timur",Desain Komunikasi Visual,40
+Universitas Islam Negeri Sunan Ampel Surabaya,Pendidikan Matematika,32
+Universitas Islam Negeri Sunan Ampel Surabaya,Teknik Lingkungan,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Arsitektur,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Sistem Informasi,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Ilmu Kelautan,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Biologi,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Matematika,28
+Universitas Islam Negeri Sunan Ampel Surabaya,Pendidikan Ilmu Pengetahuan Alam,12
+Universitas Tanjungpura,Sosial Ekonomi Pertanian (Agribisnis),50
+Universitas Tanjungpura,Teknik Sipil,97
+Universitas Tanjungpura,Teknik Elektro,80
+Universitas Tanjungpura,Teknik Arsitektur,25
+Universitas Tanjungpura,Teknik Informatika,35
+Universitas Tanjungpura,Teknik Industri,28
+Universitas Tanjungpura,Teknik Lingkungan,47
+Universitas Tanjungpura,Pend. Matematika,30
+Universitas Tanjungpura,Pend. Biologi,30
+Universitas Tanjungpura,Pend. Fisika,26
+Universitas Tanjungpura,Pend. Kimia,26
+Universitas Tanjungpura,Matematika,30
+Universitas Tanjungpura,Fisika,30
+Universitas Tanjungpura,Kimia,50
+Universitas Tanjungpura,Biologi,50
+Universitas Tanjungpura,Pend. Dokter,36
+Universitas Tanjungpura,Farmasi,36
+Universitas Tanjungpura,Sistem Komputer,48
+Universitas Tanjungpura,Agroteknologi,100
+Universitas Tanjungpura,Kehutanan,180
+Universitas Tanjungpura,Keperawatan,30
+Universitas Tanjungpura,Geofisika,30
+Universitas Tanjungpura,Ilmu Kelautan,30
+Universitas Tanjungpura,Perencanaan Wilayah Kota,20
+Universitas Tanjungpura,Ilmu Dan Teknologi Pangan,61
+Universitas Tanjungpura,Teknik Pertambangan,24
+Universitas Tanjungpura,Statistik,30
+Universitas Tanjungpura,Teknik Kelautan,24
+Universitas Tanjungpura,Teknik Kimia,20
+Universitas Tanjungpura,Teknik Mesin,20
+Universitas Tanjungpura,Ilmu Tanah,61
+Universitas Tanjungpura,Sistem Informasi ,30
+Universitas Palangkaraya,Ilmu Sosial Ekonomi Pertanian (Agribisnis),40
+Universitas Palangkaraya,Manajemen Sumberdaya Perairan,72
+Universitas Palangkaraya,Budidaya Perairan,72
+Universitas Palangkaraya,Teknik Sipil,64
+Universitas Palangkaraya,Arsitektur ,40
+Universitas Palangkaraya,Teknik Perangkat Lunak (Tek. Informatika),30
+Universitas Palangkaraya,Pend. Matematika ,34
+Universitas Palangkaraya,Pend. Fisika ,40
+Universitas Palangkaraya,Pend. Kimia ,30
+Universitas Palangkaraya,Pend. Biologi ,40
+Universitas Palangkaraya,Teknik Pertambangan,24
+Universitas Palangkaraya,Agroteknologi,88
+Universitas Palangkaraya,Kehutanan,96
+Universitas Palangkaraya,Teknologi Hasil Perikanan,72
+Universitas Palangkaraya,Pendidikan Dokter,20
+Universitas Palangkaraya,Teknologi Industri Pertanian,48
+Universitas Palangkaraya,Kimia,30
+Universitas Lambung Mangkurat,Pend. Matematika,36
+Universitas Lambung Mangkurat,Pend. Biologi,45
+Universitas Lambung Mangkurat,Pend. Kimia,36
+Universitas Lambung Mangkurat,Agroekoteknologi,21
+Universitas Lambung Mangkurat,Agribisnis,33
+Universitas Lambung Mangkurat,Produksi Ternak,25
+Universitas Lambung Mangkurat,Teknologi Industri Pertanian,25
+Universitas Lambung Mangkurat,Teknologi Hasil Perikanan,27
+Universitas Lambung Mangkurat,Budidaya Perairan,27
+Universitas Lambung Mangkurat,Pemanfaatan Sd Perikanan,27
+Universitas Lambung Mangkurat,Manajemen Sd Perairan,27
+Universitas Lambung Mangkurat,Agribisnis Perikanan,27
+Universitas Lambung Mangkurat,Ilmu Kelautan,27
+Universitas Lambung Mangkurat,Teknik Sipil,54
+Universitas Lambung Mangkurat,Teknik Arsitektur,27
+Universitas Lambung Mangkurat,Teknik Pertambangan,18
+Universitas Lambung Mangkurat,Teknik Kimia,27
+Universitas Lambung Mangkurat,Teknik Lingkungan,27
+Universitas Lambung Mangkurat,Teknik Mesin,27
+Universitas Lambung Mangkurat,Pendidikan Dokter,63
+Universitas Lambung Mangkurat,Kesehatan Masyarakat,45
+Universitas Lambung Mangkurat,Matematika,27
+Universitas Lambung Mangkurat,Kimia,27
+Universitas Lambung Mangkurat,Biologi,27
+Universitas Lambung Mangkurat,Fisika,32
+Universitas Lambung Mangkurat,Farmasi,35
+Universitas Lambung Mangkurat,Ilmu Komputer,32
+Universitas Lambung Mangkurat,Kehutanan,68
+Universitas Lambung Mangkurat,Pend. Fisika,32
+Universitas Lambung Mangkurat,Ilmu Keperawatan,41
+Universitas Lambung Mangkurat,Ilmu Tanah,33
+Universitas Lambung Mangkurat,Proteksi Tanaman,29
+Universitas Lambung Mangkurat,Agronomi,21
+Universitas Lambung Mangkurat,Kedokteran Gigi,36
+Universitas Lambung Mangkurat,Pendidikan Ilmu Komputer ,18
+Universitas Lambung Mangkurat,Pendidikan Ipa,36
+Universitas Lambung Mangkurat,Teknik Informatika,23
+Universitas Lambung Mangkurat,Statistika,23
+Universitas Mulawarman,Agroekoteknologi,60
+Universitas Mulawarman,Agribisnis,36
+Universitas Mulawarman,Teknologi Hasil Pertanian,36
+Universitas Mulawarman,Kehutanan,135
+Universitas Mulawarman,Pendidikan Biologi,32
+Universitas Mulawarman,Pendidikan Kimia,32
+Universitas Mulawarman,Pendidikan Fisika,24
+Universitas Mulawarman,Pendidikan Matematika,32
+Universitas Mulawarman,Budidaya Perairan,32
+Universitas Mulawarman,Agrobisnis Perikanan,32
+Universitas Mulawarman,Manajemen Sumberdaya Perairan,32
+Universitas Mulawarman,Statistika,24
+Universitas Mulawarman,Biologi,32
+Universitas Mulawarman,Kimia,40
+Universitas Mulawarman,Fisika,30
+Universitas Mulawarman,Ilmu Komputer,40
+Universitas Mulawarman,Teknik Sipil,25
+Universitas Mulawarman,Teknik Industri,25
+Universitas Mulawarman,Teknik Lingkungan,25
+Universitas Mulawarman,Teknik Pertambangan,25
+Universitas Mulawarman,Pendidikan Dokter,40
+Universitas Mulawarman,Kesehatan Masyarakat,25
+Universitas Mulawarman,Farmasi,60
+Universitas Mulawarman,Peternakan,18
+Universitas Mulawarman,Teknik Kimia,25
+Universitas Mulawarman,Teknik Informatika,68
+Universitas Mulawarman,Teknik Geologi,25
+Universitas Mulawarman,Teknik Elektro,25
+Universitas Mulawarman,Kedokteran Gigi,14
+Universitas Mulawarman,Matematika,12
+Universitas Mulawarman,Ilmu Kelautan,32
+Universitas Mulawarman,Geofisika,24
+Universitas Mulawarman,Pendidikan Komputer,16
+Universitas Mulawarman,Farmasi Klinis,20
+Universitas Mulawarman,Sistem Informasi,40
+Institut Teknologi Kalimantan,Fisika,33
+Institut Teknologi Kalimantan,Matematika,40
+Institut Teknologi Kalimantan,Teknik Mesin,50
+Institut Teknologi Kalimantan,Teknik Elektro,45
+Institut Teknologi Kalimantan,Teknik Kimia,45
+Institut Teknologi Kalimantan,Teknik Material Dan Metalurgi,35
+Institut Teknologi Kalimantan,Teknik Sipil,45
+Institut Teknologi Kalimantan,Perencanaan Wilayah Dan Kota,45
+Institut Teknologi Kalimantan,Teknik Perkapalan,45
+Institut Teknologi Kalimantan,Sistem Informasi,47
+Institut Teknologi Kalimantan,Teknik Industri,50
+Institut Teknologi Kalimantan,Informatika,35
+Institut Teknologi Kalimantan,Teknik Lingkungan,40
+Institut Teknologi Kalimantan,Teknik Kelautan,27
+Universitas Borneo Tarakan,Teknik Elektro,32
+Universitas Borneo Tarakan,Teknik Sipil,34
+Universitas Borneo Tarakan,Agribisnis,48
+Universitas Borneo Tarakan,Agroteknologi,48
+Universitas Borneo Tarakan,Pendidikan Biologi,32
+Universitas Borneo Tarakan,Manajemen Sumber Daya Perairan,48
+Universitas Borneo Tarakan,Akuakultur,48
+Universitas Borneo Tarakan,Teknologi Hasil Perikanan,32
+Universitas Borneo Tarakan,Teknik Mesin,32
+Universitas Udayana,Pendidikan Dokter,125
+Universitas Udayana,Kedokteran Hewan,60
+Universitas Udayana,Teknik Arsitektur,60
+Universitas Udayana,Teknik Sipil,90
+Universitas Udayana,Ilmu Dan Teknologi Pangan,40
+Universitas Udayana,Teknologi Industri Pertanian,40
+Universitas Udayana,Teknik Pertanian,30
+Universitas Udayana,Biologi,35
+Universitas Udayana,Kimia,40
+Universitas Udayana,Fisika,30
+Universitas Udayana,Teknik Mesin,90
+Universitas Udayana,Teknik Elektro,75
+Universitas Udayana,Agribisnis,100
+Universitas Udayana,Agroekoteknologi,113
+Universitas Udayana,Peternakan,100
+Universitas Udayana,Matematika,50
+Universitas Udayana,Ilmu Kesehatan Masyarakat,75
+Universitas Udayana,Farmasi,50
+Universitas Udayana,Ilmu Keperawatan,45
+Universitas Udayana,Ilmu Komputer/Teknik Informatika,60
+Universitas Udayana,Teknologi Informasi,90
+Universitas Udayana,Fisioterapi,30
+Universitas Udayana,Ilmu Kelautan,50
+Universitas Udayana,Arsitektur Pertamanan,25
+Universitas Udayana,Manajemen Sumber Daya Perairan,50
+Universitas Udayana,Pendidikan Dokter Gigi,25
+Universitas Pendidikan Ganesha,Pendidikan Matematika,36
+Universitas Pendidikan Ganesha,Pendidikan Biologi,16
+Universitas Pendidikan Ganesha,Pendidikan Kimia,10
+Universitas Pendidikan Ganesha,Pendidikan Fisika,18
+Universitas Pendidikan Ganesha,Pendidikan Teknik Informatika,60
+Universitas Pendidikan Ganesha,Pendidikan Teknik Elektro,16
+Universitas Pendidikan Ganesha,Pendidikan Teknik Mesin,19
+Universitas Pendidikan Ganesha,Kimia,6
+Universitas Pendidikan Ganesha,Matematika,6
+Universitas Pendidikan Ganesha,Biologi,6
+Universitas Pendidikan Ganesha,Akuakultur,6
+Universitas Pendidikan Ganesha,Sistem Informasi,24
+Universitas Pendidikan Ganesha,Ilmu Komputer,24
+Universitas Pendidikan Ganesha,Kedokteran,20
+Universitas Mataram,Agroekoteknologi,75
+Universitas Mataram,Agribisnis,160
+Universitas Mataram,Kehutanan,50
+Universitas Mataram,Pendidikan Biologi,60
+Universitas Mataram,Pendidikan Kimia,50
+Universitas Mataram,Pendidikan Matematika,90
+Universitas Mataram,Teknik Sipil,100
+Universitas Mataram,Teknik Mesin,75
+Universitas Mataram,Teknik Elektro,75
+Universitas Mataram,Biologi,40
+Universitas Mataram,Matematika,40
+Universitas Mataram,Fisika,40
+Universitas Mataram,Kimia,40
+Universitas Mataram,Peternakan,150
+Universitas Mataram,Pendidikan Dokter,50
+Universitas Mataram,Ilmu Dan Teknologi Pangan,60
+Universitas Mataram,Keteknikan Pertanian,60
+Universitas Mataram,Budidaya Perairan,50
+Universitas Mataram,Teknik Informatika,50
+Universitas Mataram,Farmasi,38
+Universitas Mataram,Ilmu Tanah,30
+Universitas Nusa Cendana,Pend. Matematika,45
+Universitas Nusa Cendana,Pend. Biologi,45
+Universitas Nusa Cendana,Pend. Fisika,45
+Universitas Nusa Cendana,Pend. Kimia,68
+Universitas Nusa Cendana,Pend. Teknik Elektro,36
+Universitas Nusa Cendana,Agribisnis,126
+Universitas Nusa Cendana,Ilmu Peternakan,225
+Universitas Nusa Cendana,Ilmu Kesehatan Masyarakat,135
+Universitas Nusa Cendana,Matematika,45
+Universitas Nusa Cendana,Fisika,45
+Universitas Nusa Cendana,Kimia,45
+Universitas Nusa Cendana,Teknik Sipil,45
+Universitas Nusa Cendana,Teknik Elektro,45
+Universitas Nusa Cendana,Teknik Mesin,45
+Universitas Nusa Cendana,Ilmu Komputer,45
+Universitas Nusa Cendana,Teknik Arsitektur,27
+Universitas Nusa Cendana,Teknik Pertambangan,27
+Universitas Nusa Cendana,Pendidikan Dokter,27
+Universitas Nusa Cendana,Budidaya Perikanan,36
+Universitas Nusa Cendana,Kedokteran Hewan,27
+Universitas Nusa Cendana,Kehutanan,36
+Universitas Timor,Pend. Matematika,50
+Universitas Hasanuddin,Matematika,44
+Universitas Hasanuddin,Fisika ,44
+Universitas Hasanuddin,Kesehatan Masyarakat ,125
+Universitas Hasanuddin,Farmasi ,85
+Universitas Hasanuddin,Kimia ,50
+Universitas Hasanuddin,Biologi ,50
+Universitas Hasanuddin,Pendidikan Dokter,125
+Universitas Hasanuddin,Agroteknologi ,200
+Universitas Hasanuddin,Ilmu Dan Teknologi Pangan ,50
+Universitas Hasanuddin,Agribisnis ,100
+Universitas Hasanuddin,Keteknikan Pertanian ,50
+Universitas Hasanuddin,Teknik Sipil ,70
+Universitas Hasanuddin,Teknik Mesin ,75
+Universitas Hasanuddin,Teknik Elektro ,60
+Universitas Hasanuddin,Teknik Perkapalan ,50
+Universitas Hasanuddin,Teknik Geologi ,60
+Universitas Hasanuddin,Pendidikan Dokter Gigi ,50
+Universitas Hasanuddin,Teknik Arsitektur ,45
+Universitas Hasanuddin,Kehutanan ,150
+Universitas Hasanuddin,Geofisika ,44
+Universitas Hasanuddin,Statistika ,40
+Universitas Hasanuddin,Ilmu Gizi ,40
+Universitas Hasanuddin,Ilmu Kelautan ,85
+Universitas Hasanuddin,Budidaya Perairan ,50
+Universitas Hasanuddin,Manajemen Sumberdaya Perairan ,50
+Universitas Hasanuddin,Pemanfaatan Sumberdaya Perikanan ,50
+Universitas Hasanuddin,Sosial Ekonomi Perikanan ,40
+Universitas Hasanuddin,Ilmu Keperawatan,75
+Universitas Hasanuddin,Peternakan,160
+Universitas Hasanuddin,Teknik Kelautan ,35
+Universitas Hasanuddin,Teknik Industri ,45
+Universitas Hasanuddin,Teknik Sistem Perkapalan ,45
+Universitas Hasanuddin,Teknik Pengemb. Wilayah Kota ,45
+Universitas Hasanuddin,Teknik Pertambangan ,35
+Universitas Hasanuddin,Teknik Informatika ,45
+Universitas Hasanuddin,Fisoterapi ,30
+Universitas Hasanuddin,Teknik Lingkungan ,40
+Universitas Hasanuddin,Kedokteran Hewan,20
+Universitas Hasanuddin,Psikologi,35
+Universitas Hasanuddin,Ilmu Komputer,30
+Universitas Negeri Makassar,Pendidikan Matematika,29
+Universitas Negeri Makassar,Pendidikan Fisika,29
+Universitas Negeri Makassar,Pendidikan Kimia,29
+Universitas Negeri Makassar,Pendidikan Biologi,29
+Universitas Negeri Makassar,Matematika,15
+Universitas Negeri Makassar,Fisika,15
+Universitas Negeri Makassar,Kimia,15
+Universitas Negeri Makassar,Biologi,15
+Universitas Negeri Makassar,Geografi,15
+Universitas Negeri Makassar,Pendidikan Teknik Elektro,29
+Universitas Negeri Makassar,Pend. Teknik Elektronika,15
+Universitas Negeri Makassar,Pendidikan Teknik Mesin,15
+Universitas Negeri Makassar,Pend. Teknik Otomotif,29
+Universitas Negeri Makassar,Pendidikan Teknik Bangunan,29
+Universitas Negeri Makassar,Ilmu Keolahragaan,57
+Universitas Negeri Makassar,Pendidikan Teknik Informatika & Komputer,44
+Universitas Negeri Makassar,Pend. Kimia Kls Internasional (Bilingual),15
+Universitas Negeri Makassar,Pend. Matematika Kls Internas. (Bilingual),15
+Universitas Negeri Makassar,Desain Komunikasi Visual,41
+Universitas Negeri Makassar,Pend. Biologi Kls Internasional (Bilingual),15
+Universitas Negeri Makassar,Pendidikan Teknologi Pertanian,29
+Universitas Negeri Makassar,Pendidikan Ipa,29
+Universitas Negeri Makassar,Statistika,29
+Universitas Negeri Makassar,Teknik Komputer,29
+Universitas Islam Negeri Alauddin,Matematika,45
+Universitas Islam Negeri Alauddin,Kimia,40
+Universitas Islam Negeri Alauddin,Teknik Perencanaan Wilayah Dan Kota,40
+Universitas Islam Negeri Alauddin,Teknik Arsitektur,45
+Universitas Islam Negeri Alauddin,Ilmu Peternakan,45
+Universitas Islam Negeri Alauddin,Sistem Informasi,20
+Universitas Islam Negeri Alauddin,Pendidikan Dokter,25
+Universitas Sam Ratulangi,Pendidikan Dokter,68
+Universitas Sam Ratulangi,Pendidikan Dokter Gigi,12
+Universitas Sam Ratulangi,Ilmu Kesehatan Masyarakat,90
+Universitas Sam Ratulangi,Ilmu Keperawatan,34
+Universitas Sam Ratulangi,Teknik Elektro,36
+Universitas Sam Ratulangi,Teknik Mesin ,27
+Universitas Sam Ratulangi,Teknik Sipil,54
+Universitas Sam Ratulangi,Arsitektur,36
+Universitas Sam Ratulangi,Perencanaan Wilayah Dan Kota,36
+Universitas Sam Ratulangi,Ilmu Dan Teknologi Pangan,27
+Universitas Sam Ratulangi,Fisika,23
+Universitas Sam Ratulangi,Biologi,27
+Universitas Sam Ratulangi,Agribisnis,90
+Universitas Sam Ratulangi,Agroekoteknologi,27
+Universitas Sam Ratulangi,Peternakan,99
+Universitas Sam Ratulangi,Ilmu Kelautan ,45
+Universitas Sam Ratulangi,Manajemen Sumberdaya Perairan,23
+Universitas Sam Ratulangi,Teknologi Hasil Perikanan,23
+Universitas Sam Ratulangi,Pemanfaatan Sumberdaya Perikanan,23
+Universitas Sam Ratulangi,Kehutanan,27
+Universitas Sam Ratulangi,Informatika,36
+Universitas Sam Ratulangi,Farmasi,36
+Universitas Sam Ratulangi,Teknik Lingkungan,18
+Universitas Sam Ratulangi,Sistem Informasi,36
+Universitas Sam Ratulangi,Agronomi,21
+Universitas Negeri Manado,Pend. Fisika,32
+Universitas Negeri Manado,Pend. Matematika,80
+Universitas Negeri Manado,Pend. Inf./Kom,80
+Universitas Negeri Manado,Ilmu Keolahragaan,32
+Universitas Negeri Manado,Arsitektur,32
+Universitas Negeri Manado,Teknik Informatika,64
+Universitas Negeri Manado,Teknik Sipil,32
+Universitas Negeri Manado,Ilmu Kesehatan Masyarakat,64
+Universitas Negeri Manado,Teknik Mesin,32
+Universitas Tadulako,Pend. Biologi,75
+Universitas Tadulako,Pend. Matematika,75
+Universitas Tadulako,Pend. Fisika,75
+Universitas Tadulako,Agroteknologi,225
+Universitas Tadulako,Kehutanan,300
+Universitas Tadulako,Teknik Sipil,80
+Universitas Tadulako,Teknik Arsitektur,48
+Universitas Tadulako,Teknik Elektro,40
+Universitas Tadulako,Fisika,40
+Universitas Tadulako,Matematika,40
+Universitas Tadulako,Kimia,40
+Universitas Tadulako,Biologi,40
+Universitas Tadulako,Pend. Dokter,75
+Universitas Tadulako,Kesehatan Masyarakat,150
+Universitas Tadulako,Farmasi,60
+Universitas Tadulako,Teknik Informatika,48
+Universitas Tadulako,Teknik Geologi,40
+Universitas Tadulako,Perencanaan Wilayah Dan Kota,48
+Universitas Tadulako,Gizi,53
+Universitas Tadulako,Teknik Geo Fisika,50
+Universitas Sulawesi Barat,Keperawatan ,80
+Universitas Sulawesi Barat,Teknik Informatika,143
+Universitas Sulawesi Barat,Pend. Matematika,100
+Universitas Haluoleo,Agribisnis,45
+Universitas Haluoleo,Agroteknologi / Agroekoteknologi,45
+Universitas Haluoleo,Budidaya Perairan,27
+Universitas Haluoleo,Matematika,24
+Universitas Haluoleo,Fisika,28
+Universitas Haluoleo,Kimia,40
+Universitas Haluoleo,Biologi,30
+Universitas Haluoleo,Ilmu Kesehatan Masyarakat,140
+Universitas Haluoleo,Pendidikan Matematika,50
+Universitas Haluoleo,Pendidikan Biologi,25
+Universitas Haluoleo,Pendidikan Fisika,60
+Universitas Haluoleo,Pendidikan Kimia,50
+Universitas Haluoleo,Teknik Sipil,35
+Universitas Haluoleo,Teknik Arsitektur,32
+Universitas Haluoleo,Teknik Mesin,35
+Universitas Haluoleo,Teknik Elektro,32
+Universitas Haluoleo,Teknik Informatika,24
+Universitas Haluoleo,Pendidikan Dokter,40
+Universitas Haluoleo,Kehutanan,60
+Universitas Haluoleo,Farmasi,80
+Universitas Haluoleo,Teknik Geologi,40
+Universitas Haluoleo,Ilmu Lingkungan,48
+Universitas Haluoleo,Teknik Pertambangan,40
+Universitas Haluoleo,Geografi,20
+Universitas Haluoleo,Ilmu Keolahragaan,30
+Universitas Haluoleo,Statistika,24
+Universitas Haluoleo,Ilmu Komputer,24
+Universitas Sembilan Belas November Kolaka,Sistem Informasi,100
+Universitas Sembilan Belas November Kolaka,Teknik Sipil,64
+Universitas Sembilan Belas November Kolaka,Teknik Pertambangan,64
+Universitas Sembilan Belas November Kolaka,Agribisnis,80
+Universitas Sembilan Belas November Kolaka,Kimia,48
+Universitas Sembilan Belas November Kolaka,Ilmu Komputer,56
+Universitas Sembilan Belas November Kolaka,Farmasi,48
+Universitas Negeri Gorontalo,Pendidikan Biologi,51
+Universitas Negeri Gorontalo,Pendidikan Kimia,43
+Universitas Negeri Gorontalo,Pendidikan Geografi,54
+Universitas Negeri Gorontalo,Sistem Informasi,40
+Universitas Negeri Gorontalo,Kesehatan Masyarakat,99
+Universitas Negeri Gorontalo,Manajamen Sumberdaya Perairan,90
+Universitas Negeri Gorontalo,Keperawatan,67
+Universitas Negeri Gorontalo,Teknik Sipil,40
+Universitas Negeri Gorontalo,Teknik Arsitektur,34
+Universitas Negeri Gorontalo,Farmasi,63
+Universitas Negeri Gorontalo,Teknik Geologi,18
+Universitas Negeri Gorontalo,Teknik Industri,27
+Universitas Negeri Gorontalo,Ilmu Teknologi Pangan,54
+Universitas Negeri Gorontalo,Kimia,43
+Universitas Negeri Gorontalo,Statistika,28
+Universitas Pattimura,Pend. Matematika,40
+Universitas Pattimura,Pend. Kimia,40
+Universitas Pattimura,Agribisnis,50
+Universitas Pattimura,Agroteknologi,35
+Universitas Pattimura,Kehutanan,60
+Universitas Pattimura,Peternakan,30
+Universitas Pattimura,Teknik Industri,50
+Universitas Pattimura,Pemanfaatan Sd Perikanan,40
+Universitas Pattimura,Biologi,63
+Universitas Pattimura,Pendidikan Dokter,75
+Universitas Pattimura,Perencanaan Wilayah Dan Kota,50
+Universitas Pattimura,Teknik Sipil,50
+Universitas Pattimura,Teknik Geologi,8
+Universitas Pattimura,Statistika,38
+Universitas Pattimura,Teknik Perminyakan,8
+Universitas Khairun,Teknik Sipil,60
+Universitas Khairun,Teknik Mesin,32
+Universitas Khairun,Arsitektur,40
+Universitas Khairun,Peternakan,20
+Universitas Khairun,Teknik Pertambangan,24
+Universitas Khairun,Pendidikan Dokter,20
+Universitas Cenderawasih,Matematika,13
+Universitas Cenderawasih,Biologi,13
+Universitas Cenderawasih,Kimia,13
+Universitas Cenderawasih,Fisika,13
+Universitas Cenderawasih,Ilmu Kesehatan Masyarakat,45
+Universitas Cenderawasih,Pend. Biologi,13
+Universitas Cenderawasih,Teknik Sipil,13
+Universitas Cenderawasih,Pendidikan Dokter,13
+Universitas Cenderawasih,Ilmu Keperawatan,13
+Universitas Cenderawasih,Teknik Pertambangan,18
+Universitas Cenderawasih,Farmasi,13
+Universitas Cenderawasih,Sistem Informasi,13
+Universitas Cenderawasih,Perencanaan Wilayah Dan Kota/Planologi,13
+Universitas Cenderawasih,Ilmu Keolahragaan,45
+Universitas Cenderawasih,Ilmu Perikanan,13
+Universitas Cenderawasih,Statistika,13
+Universitas Musamus Merauke,Teknik Sipil,60
+Universitas Musamus Merauke,Arsitektur,20
+Universitas Musamus Merauke,Keteknikan Pertanian,25
+Universitas Musamus Merauke,Agribisnis,30
+Universitas Musamus Merauke,Pendidikan Matematika,30
+Universitas Papua,Teknologi Hasil Pertanian,24
+Universitas Papua,Ilmu Kelautan,16
+Universitas Papua,Matematika,16
+Universitas Papua,Fisika,16
+Universitas Papua,Biologi,28
+Universitas Papua,Agribisnis,24
+Universitas Papua,Agroteknologi,24
+Universitas Papua,Kehutanan,24
+Universitas Papua,Teknik Informatika,12
+Universitas Papua,Teknik Pertambangan,24
+Universitas Papua,Teknik Elektro,16
+Universitas Papua,Pendidikan Biologi,16
+Universitas Papua,Pendidikan Matematika,16
+Universitas Papua,Pendidikan Kimia,16
+Universitas Papua,Ilmu Tanah,24
+Universitas Papua,Nutrisi Dan Teknologi Pakan Ternak,16
+Universitas Papua,Teknik Sipil,16
