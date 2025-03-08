@@ -1,4 +1,4 @@
-# Indonesia-College-Entrance-Examination-UTBK-2019
+# Indonesia College Entrance Examination UTBK 2019
 
 ## Project Description
 
