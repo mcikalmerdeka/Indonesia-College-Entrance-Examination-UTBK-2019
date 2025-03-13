@@ -1,5 +1,7 @@
 # Indonesia College Entrance Examination UTBK 2019
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Indonesia-College-Entrance-Examination-UTBK-2019/refs/heads/main/Assets/Project%20Header.jpg)
+
 ## Project Description
 
 - UTBK SBMPTN is the annual college entrance exam held by and for state universities in Indonesia. This data was collected from a ranking site where exam takers could submit their score in order to gauge how well they did in comparison to others. 
